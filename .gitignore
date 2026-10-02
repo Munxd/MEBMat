@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Build outputs
+*.apk
+*.aab
+
+# Signing / Keystore
+*.jks
+*.keystore
+
+# Generated files
+.cxx/
+.externalNativeBuild/
+captures/
+
+# macOS
+.DS_Store
+
+# Python model files
+*.joblib
